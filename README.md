@@ -1,0 +1,51 @@
+
+# Intro to ERCE with R
+
+- The present is a repository for sharing the workshop materials with
+  attendants
+
+# Slides
+
+- Download all slides
+  - <https://www.dropbox.com/sh/o3xohaeu7b2ilei/AACfbnXNOj34ssZpk7sRNREpa?dl=1>
+- 01 Introducction
+  - <https://www.dropbox.com/s/jb8mj1i768av3by/01_introduction.pdf?dl=1>
+- 02 Developing Code
+  - <https://www.dropbox.com/s/9drf0xkweild8sp/02_developing_code.pdf?dl=1>
+- 03 Descriptives
+  - <https://www.dropbox.com/s/mmxz70v5o6yujcm/03_descriptives.pdf?dl=1>
+- 04 Regressions
+  - <https://www.dropbox.com/s/chmb5varr8gte8m/04_regressions.pdf?dl=1>
+- 05 Multilevel
+  - <https://www.dropbox.com/s/vz7830wcgrs0wxr/05_multilevel.pdf?dl=1>
+
+# Workshop examples
+
+## Developing Code
+
+- Download the files to replicate the **import and export data for
+  modelling**
+  [example](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+  - link also
+    [here](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+
+## Multilevel Models
+
+- Download the files to replicate the **import and export data for
+  modelling**
+  [example](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+  - link also
+    [here](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+
+## Contributors
+
+- Carrasco, D., PhD, Centro de Medición MIDE UC
+- Cayuman, C., Mg., UNESCO-OREALC
+- Sandoval-Hernández, A., PhD, University of Bath
+- López-Hornickel, N., PhD(c), University of Bath
+- Treviño, E., PhD, Pontificia Universidad Católica
+
+# About
+
+The present workshop is a joint iniative of the Centro de Medición MIDE
+UC, Pontificia Univeersidad Católica, UNESCO-OREALC, and LLECE.
