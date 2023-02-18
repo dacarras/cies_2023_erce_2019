@@ -8,6 +8,8 @@
 
 - Download all slides
   - <https://www.dropbox.com/sh/o3xohaeu7b2ilei/AACfbnXNOj34ssZpk7sRNREpa?dl=1>
+- 00 ERCE 2019
+  - <https://www.dropbox.com/s/3crruw5qpgd43eo/00_brief_erce_intro.pdf?dl=1>
 - 01 Introducction
   - <https://www.dropbox.com/s/jb8mj1i768av3by/01_introduction.pdf?dl=1>
 - 02 Developing Code
