@@ -23,19 +23,17 @@
 
 ## Developing Code
 
-- Download the files to replicate the **import and export data for
-  modelling**
-  [example](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
-  - link also
-    [here](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+- [Preview](https://github.com/dacarras/cies_2023_erce_2019/blob/main/code_examples/02_developing_code_example.md)
+
+- [R code in
+  Rmarkdown](https://github.com/dacarras/cies_2023_erce_2019/blob/main/code_examples/02_developing_code_example.rmd)
 
 ## Multilevel Models
 
-- Download the files to replicate the **import and export data for
-  modelling**
-  [example](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
-  - link also
-    [here](https://www.dropbox.com/sh/1kxfsumwf2dot07/AAAsOZpI0VghO40SBVPgrzhQa?dl=1).
+- [Preview](https://github.com/dacarras/cies_2023_erce_2019/blob/main/code_examples/05_multilevel_codes.md)
+
+- [R code in
+  Rmarkdown](https://github.com/dacarras/cies_2023_erce_2019/blob/main/code_examples/05_multilevel_codes.rmd)
 
 ## Contributors
 
