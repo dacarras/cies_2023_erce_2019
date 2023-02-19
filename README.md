@@ -1,8 +1,8 @@
 
 # Intro to ERCE with R
 
-- The present github repository is a web handler for sharing the slides
-  and code with the workshop attendants.
+- The present github repository contains the workshop materials shared
+  with the workshop attendants.
 
 # Slides
 
