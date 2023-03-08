@@ -47,5 +47,5 @@
 
 # About
 
-The present workshop is a joint iniative of the Centro de Medición MIDE
-UC, Pontificia Univeersidad Católica, UNESCO-OREALC, and LLECE.
+The present workshop is a joint initiative of the Centro de Medición MIDE
+UC, Pontificia Universidad Católica, UNESCO-OREALC, and LLECE.
